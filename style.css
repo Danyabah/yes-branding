@@ -33,7 +33,7 @@ body {
   position: fixed;
   inset: 0;
   z-index: 9999;
-  background: var(--sky-dark);
+  background: #83c5dc;
   display: flex;
   align-items: center;
   justify-content: center;
